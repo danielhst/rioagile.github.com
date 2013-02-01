@@ -13,5 +13,10 @@ tags:       []
 ---
 
 ## Conceito
+__Os eventos não-promovidos por nós, mas que vale muito a pena ficar sabendo.__
 
-Os eventos não-promovidos por nós, mas que vale muito a pena ficar sabendo.
+
+* [Agile Brazil](http://www.agilebrazil.com)
+* [Circuito Startup](http://circuitostartup.com/portal/pt/rio)
+* [RHOK](http://www.rhok.org/) 
+
